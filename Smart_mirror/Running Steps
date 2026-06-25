@@ -1,0 +1,9 @@
+#Open Terminal 
+#Run 
+sudo su
+#change path to project folder
+cd #Path
+#To Run GUI_master 
+python GUI_master.py
+#to Run smartmirror
+python3 smartmirror.py
